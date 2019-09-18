@@ -1,0 +1,18 @@
+# Choose one
+by default its normal timer you can use also casual timer. 
+and use these commands :
+
+for default timer - tf_use_match_hud 0
+and for casual timer - tf_use_match_hud 1
+
+# Installation
+
+Go to woolhud/resource/ui and drop the file if its ask you for switch, do it 
+
+
+The reason for that is if youre gonna switch this commands to show 
+this casual label and default old timer like on an old official valve servers from (example: tough break update) 
+timer numbers gonna be in diffrent positions on the same screen resolution and solution was simple, make diffrent files and just use one. 
+Woolen have used everything for a change. (old loadout panel and today's loadout panel is diffrent for example)
+
+
