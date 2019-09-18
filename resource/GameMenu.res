@@ -24,7 +24,7 @@
 	}
 	"ConsoleButton"
 	{
-		"label" "Cmd.exe"
+		"label" "XTerm"
 		"command" "engine con_enable 1;toggleconsole"
 	} 
 	"DEMOUI"
