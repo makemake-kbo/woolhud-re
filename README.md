@@ -1,4 +1,8 @@
 # Woolhud-re
+![Woolhud-re](https://i.imgur.com/wkac33i.jpg)
+[Full gallery](https://imgur.com/a/ySTI700)
+
+
 This is a continuation of woolhud, a hud heavily inspired by a woolen sleevlet's hud. 
 THIS IS NOT HIS HUD DO NOT ASK HIM QUESTIONS IF THE HUD IS BROKEN!!! SUBMIT AN ISSUE OR A PATCH!!!   
 It has some minor diffrences from the original woolhud, but everything is mostly the same.
