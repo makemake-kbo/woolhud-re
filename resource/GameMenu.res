@@ -16,6 +16,7 @@
 	{
 		"label" "lol"
 		"command" "engine replay_reloadbrowser"
+		"OnlyAtMenu" "1"
 	}
 	"SteamWorkshopButton"
 	{
