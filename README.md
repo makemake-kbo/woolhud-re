@@ -1,6 +1,6 @@
 # Woolhud-re
 ![Woolhud-re](https://i.imgur.com/wkac33i.jpg)
-![Woolhud-re](https://imgur.com/4IYzmcj)
+![Woolhud-re](https://i.imgur.com/4IYzmcj.jpg)
 [Full gallery](https://imgur.com/a/ySTI700)
 
 
