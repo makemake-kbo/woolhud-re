@@ -2,13 +2,13 @@
 {
 	"ServerBrowserButton"
 	{
-		"label" "chanGESERVERSASAAAA" 
+		"label" "OwO W hat's This??? notices se..." 
 		"command" "OpenServerBrowser"
 		"OnlyAtMenu" "1"
 	} 
 	"ChangeServerButton"
 	{
-		"label" "chanGESERVERSASAAAA" 
+		"label" "OwO W hat's This??? notices se..." 
 		"command" "OpenServerBrowser"
 		"OnlyInGame" "1"
 	}
@@ -40,7 +40,7 @@
 	}
 	"QuitButton"
 	{
-		"label" "#TF_Quit_Title"
+		"label" "yeah i crashed sorry"
 		"command" "engine replay_confirmquit"
 		"OnlyAtMenu" "1"
 	}
